@@ -1,0 +1,13 @@
+{
+    "name": "rifqidamarali/adminmanpro",
+    "authors": [
+        {
+            "name": "rifqidamarali",
+            "email": "rifqidamarali@student.uns.ac.id"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "codeception/codeception": "^3.1"
+    }
+}
